@@ -29,7 +29,7 @@ Another team was using neural networks to solve planning problems. In those days
 
 ### **Losing Touch and Regaining Interest**
 
-After transitioning to academia, I drifted away from the field of AI. While I kept up with occasional research, I remained skeptical about its practical utility. Progress seemed slow and fragmented. 
+After transitioning out of academia, I drifted away from the field of AI. While I kept up with occasional research, I remained skeptical about its practical utility. Progress seemed slow and fragmented. 
 
 Then came the recent breakthroughs—especially with Large Language Models (LLMs) like GPT. Suddenly, models could engage in general conversation, write code, answer context-rich queries, and even demonstrate reasoning. For the first time, I began to see real, usable value emerge.
 
