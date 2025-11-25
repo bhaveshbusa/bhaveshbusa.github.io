@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Prototyping to production (Ecosystem maturity approach)"
+date: 2025-11-25
+---
 
 # Prototyping to production (Ecosystem maturity approach)
 
