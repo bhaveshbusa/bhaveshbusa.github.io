@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 # BHAVESH BUSA  
-London, UK • bhaveshbusa@gmail.com • linkedin.com/in/bhaveshbusa  
+London, UK • linkedin.com/in/bhaveshbusa  
 
 ---
 
